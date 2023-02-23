@@ -24,3 +24,7 @@ rm sd-v1-4.ckpt
 wget https://github.com/TencentARC/GFPGAN/releases/download/v1.3.0/GFPGANv1.3.pth
 cp GFPGANv1.3.pth src/gfpgan/experiments/pretrained_models/GFPGANv1.3.pth
 rm GFPGANv1.3.pth
+
+pip install pytorch_lightning
+pip install transformers
+pip install 
