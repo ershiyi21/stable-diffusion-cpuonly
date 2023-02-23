@@ -27,4 +27,3 @@ rm GFPGANv1.3.pth
 
 pip install pytorch_lightning
 pip install transformers
-pip install 
